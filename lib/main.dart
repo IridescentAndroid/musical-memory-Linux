@@ -3,7 +3,7 @@ import 'package:english_words/english_words.dart';
 //import 'package:flutter/semantics.dart';
 
 void main() => runApp(MyApp());
-
+//random words
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
